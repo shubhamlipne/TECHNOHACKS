@@ -1,0 +1,22 @@
+[
+  {
+    "prompt": "What is the capital of Germany?",
+    "options": ["Berlin", "Madrid", "Paris", "Rome"],
+    "answer": "A"
+  },
+  {
+    "prompt": "Which keyword is used to start a class in Python?",
+    "options": ["def", "class", "function", "lambda"],
+    "answer": "B"
+  },
+  {
+    "prompt": "What is the result of: 2 ** 3?",
+    "options": ["5", "6", "8", "9"],
+    "answer": "C"
+  },
+  {
+    "prompt": "What does 'break' do in Python loops?",
+    "options": ["Skips to next", "Ends loop", "Restarts loop", "None"],
+    "answer": "B"
+  }
+]
